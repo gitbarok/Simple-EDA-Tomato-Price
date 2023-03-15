@@ -1,6 +1,6 @@
 # Tomato Daily Prices Simple Data Exploration
 
-bout Dataset:
+About Dataset:
 This dataset contains information on the daily prices of tomatoes from 2013 to 2021. The data includes the maximum, minimum, and average prices for each day in this time period.
 
 Columns:
